@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68470646845",
+    "project_id": "gsocism",
+    "storage_bucket": "gsocism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68470646845:android:0f8e4619d15d8e655c6254",
+        "android_client_info": {
+          "package_name": "com.garvitd.gsocism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68470646845-3qsae93stu2e2p48b2ha95grihi6nlad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garvitd.gsocism",
+            "certificate_hash": "9a8c620dd6f601ea92b002d23153f1a4414abfb2"
+          }
+        },
+        {
+          "client_id": "68470646845-otm11b1p95n8sdtv5hk3t41pn9403rju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSSisux2DElYt1qDjyhDkxc_1EXx8Dxe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68470646845-otm11b1p95n8sdtv5hk3t41pn9403rju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
