@@ -1,6 +1,7 @@
 GSoc-ISM is a user-friendly platform for students to interact and share their
 grievances with the management committee of IIT (ISM) Dhanbad by uploading it in
 the form of petitions to the associated departments.
+
 This application allows its users to check real time status of the petitions filed
 regarding any academic or non-academic issue that the individual is facing. At the
 same time, it also enables the admin (college administration) to respond on the
