@@ -17,3 +17,7 @@ their safety on and off the college campus!
 Overall, GSocISM provides a more efficient process to deal with our day-to-day
 problems on campus and makes the process of dealing with such grievances much
 simpler.
+
+Contributers -> 
+             Garvit Dua, Shirsh Garg (Backend)
+             Utkarsh Prasad, Shubhranshu Animesh (Frontend)
